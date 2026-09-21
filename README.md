@@ -82,7 +82,7 @@ Comparative NEMD study of vacancy-, strain-, size-, and direction-dependent ther
 
 ## Current Research Direction
 
-I am particularly interested in extending my molecular-dynamics experience toward **plastic deformation, dislocation and atomic-structure analysis, structural descriptors, and machine-learning-assisted analysis of atomistic simulations**.
+I am currently extending my molecular-dynamics research toward plastic deformation, atomic-structure analysis, structural descriptors, and machine-learning-assisted analysis of atomistic simulations.
 
 ## Research Output
 
