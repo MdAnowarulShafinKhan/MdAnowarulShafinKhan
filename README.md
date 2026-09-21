@@ -28,6 +28,18 @@ My research uses **molecular dynamics simulations with LAMMPS** to investigate m
 **Programming & Data Analysis:** Python, NumPy, SciPy, MATLAB, C  
 **Computing Environment:** Linux, Bash, WSL2
 
+## Skills demonstrated
+
+Large-scale LAMMPS MD
+HCP deformation mechanics
+PTM structural classification
+SOAP structural descriptors
+multidimensional scaling
+Python/scikit-learn data analysis
+OVITO-based trajectory analysis
+KOKKOS/GPU execution
+reproducible scientific post-processing
+
 ## Selected Research
 
 ### Graphene/MoSe₂/Graphene Trilayer — Tensile Failure
