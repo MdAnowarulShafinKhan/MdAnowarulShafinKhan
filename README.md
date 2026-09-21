@@ -42,6 +42,12 @@ My research uses **molecular dynamics simulations with LAMMPS** to investigate m
 
 ## Selected Research
 
+### [HCP Titanium — Data-Driven Plasticity](https://github.com/MdAnowarulShafinKhan/hcp-ti-soap-plasticity-md)
+
+LAMMPS molecular-dynamics study of HCP Ti under c-axis compression, combining mechanical analysis, polyhedral template matching (PTM), SOAP structural descriptors, and multidimensional scaling (MDS) to examine the elastic-to-plastic transition and size/rate effects.
+
+**Status:** Independent research-portfolio project
+
 ### Graphene/MoSe₂/Graphene Trilayer — Tensile Failure
 
 LAMMPS molecular dynamics study of temperature- and direction-dependent tensile behavior, mechanical properties, load sharing, and layer-resolved fracture in a graphene/MoSe₂/graphene van der Waals heterostructure.
