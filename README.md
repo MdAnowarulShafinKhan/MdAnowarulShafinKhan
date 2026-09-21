@@ -30,15 +30,15 @@ My research uses **molecular dynamics simulations with LAMMPS** to investigate m
 
 ## Skills demonstrated
 
-Large-scale LAMMPS MD
-HCP deformation mechanics
-PTM structural classification
-SOAP structural descriptors
-multidimensional scaling
-Python/scikit-learn data analysis
-OVITO-based trajectory analysis
-KOKKOS/GPU execution
-reproducible scientific post-processing
+- Large-scale LAMMPS MD
+- HCP deformation mechanics
+- PTM structural classification
+- SOAP structural descriptors
+- multidimensional scaling
+- Python/scikit-learn data analysis
+- OVITO-based trajectory analysis
+- KOKKOS/GPU execution
+- reproducible scientific post-processing
 
 ## Selected Research
 
